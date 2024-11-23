@@ -1,0 +1,57 @@
+[
+ {
+   "id": 1,
+   "title": "Exploring the Future of AI in Everyday Life",
+   "cover_image": "https://images.pexels.com/photos/6347919/pexels-photo-6347919.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "author_name": "John Doe",
+   "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "created_date": "2024-11-20",
+   "reading_time":5,
+   "hashtag": ["#AI", "#Technology", "#Innovation"],
+   "description": "Artificial intelligence is reshaping the way we live, work, and interact with the world. Discover the latest trends and future possibilities."
+ },
+ {
+   "id": 2,
+   "title": "Top 10 Travel Destinations for 2024",
+   "cover_image": "https://images.pexels.com/photos/4218864/pexels-photo-4218864.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "author_name": "Emily Clark",
+   "author_img": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "created_date": "2024-11-18",
+   "reading_time": 7,
+   "hashtag": ["#Travel", "#Adventure", "#Wanderlust"],
+   "description": "Looking for inspiration for your next trip? Check out our list of the top travel destinations for 2024."
+ },
+ {
+   "id": 3,
+   "title": "Mastering Web Development in 2024",
+   "cover_image": "https://images.pexels.com/photos/4240571/pexels-photo-4240571.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "author_name": "Michael Brown",
+   "author_img": "https://images.pexels.com/photos/27938575/pexels-photo-27938575/free-photo-of-wind.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "created_date": "2024-11-15",
+   "reading_time": 8,
+   "hashtag": ["#WebDevelopment", "#Coding", "#Programming"],
+   "description": "Web development continues to evolve with new frameworks and tools. Learn how to stay ahead in the ever-changing landscape."
+ },
+ {
+   "id": 4,
+   "title": "Healthy Eating Habits for a Busy Lifestyle",
+   "cover_image": "https://images.pexels.com/photos/3551722/pexels-photo-3551722.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "author_name": "Sophia Johnson",
+   "author_img": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "created_date": "2024-11-12",
+   "reading_time": 6,
+   "hashtag": ["#Health", "#Lifestyle", "#Nutrition"],
+   "description": "Balancing a busy schedule with healthy eating can be challenging. Discover practical tips for maintaining a nutritious diet."
+ },
+ {
+   "id": 5,
+   "title": "The Rise of Electric Vehicles in 2024",
+   "cover_image": "https://images.pexels.com/photos/8978878/pexels-photo-8978878.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "author_name": "David Wilson",
+   "author_img": "https://images.pexels.com/photos/26599739/pexels-photo-26599739/free-photo-of-mans-profile-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=600",
+   "created_date": "2024-11-10",
+   "reading_time": 4,
+   "hashtag": ["#ElectricVehicles", "#Sustainability", "#Technology"],
+   "description": "Electric vehicles are becoming more popular than ever. Explore how they're transforming the automotive industry and the environment."
+ }
+]
